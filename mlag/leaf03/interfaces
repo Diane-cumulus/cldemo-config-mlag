@@ -15,11 +15,11 @@ iface mgmt
 # uplinks
 auto swp51
 iface swp51 
-   mtu 9216
+  
 
 auto swp52
 iface swp52
-   mtu 9216
+
 
 # peerlink
 auto swp49
